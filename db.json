@@ -10,13 +10,19 @@
       "id": 2,
       "text": "Meeting a School",
       "day": "Feb 6th at 1:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "Fill Tank ",
       "day": "Tuesday, April 5, 2021",
-      "reminder": true,
+      "reminder": false,
       "id": 3
+    },
+    {
+      "text": "Test the mock server",
+      "day": "April 16, 2021",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
